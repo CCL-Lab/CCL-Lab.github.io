@@ -2,3 +2,5 @@ _site/
 _posts/*.md
 _portfolio/*.md
 _publications/*.md
+_talks/*.md
+_teaching/*md
