@@ -1,2 +1,4 @@
 _site/
-
+_posts/*.md
+_portfolio/*.md
+_publications/*.md
