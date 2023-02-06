@@ -21,5 +21,11 @@ main:
   - title: "Alumni"
     url: /alumni/
 
+  - title: "Research (Firm)"
+    url: /research-firm/
+
+  - title: "Research (Admin Data/Others)"
+    url: /research-others/
+
   - title: "Guide"
     url: /markdown/
