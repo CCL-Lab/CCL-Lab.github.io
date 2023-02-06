@@ -1,6 +1,6 @@
 _site/
-_posts/*.md
-_portfolio/*.md
-_publications/*.md
-_talks/*.md
-_teaching/*md
+_posts/
+_portfolio/
+_publications/
+_talks/
+_teaching/
