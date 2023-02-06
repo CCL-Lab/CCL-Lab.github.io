@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Lin, Min-Jen
+=====
+* 123123
+
+Chen, Yu-Chang
+=====
+* 1231
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
