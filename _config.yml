@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "CCL Lab Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "CCL Lab"
 description              : &description "personal description"
 url                      : https://ccl-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -43,7 +43,7 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : "2023"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
