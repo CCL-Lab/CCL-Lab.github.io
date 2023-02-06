@@ -17,6 +17,9 @@ main:
     
   - title: "Member"
     url: /member/
-    
+
+  - title: "Alumni"
+    url: /alumni/
+
   - title: "Guide"
     url: /markdown/
