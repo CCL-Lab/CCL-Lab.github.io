@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Member"
+permalink: /member/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,13 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Lin, Min-Jen
+Lin, Ming-Jen 林明仁
 =====
-* 123123
+* Professor, Department of Economics, National Taiwan University
+* email: 	yuchangchen@ntu.edu.tw
+* Website: https://yu-chang-chen.github.io/
 
-Chen, Yu-Chang
+Chen, Yu-Chang 陳由常
 =====
-* 1231
+* Assistant Professor, Department of Economics, National Taiwan University
+* email: mjlin@ntu.edu.tw
+* Website: http://homepage.ntu.edu.tw/~mjlin/
+
+Chen, Kuan-Ming 陳冠銘
+=====
+* Assistant Professor, Department of Economics, National Taiwan University
+* email: kuanmingchen@ntu.edu.tw
+* Website: https://sites.google.com/view/kmchen
 
 
 Education
