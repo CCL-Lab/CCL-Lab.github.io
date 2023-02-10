@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Lin, Ming-Jen 林明仁
 =====
 * Professor, Department of Economics, National Taiwan University
