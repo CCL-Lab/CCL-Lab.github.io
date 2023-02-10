@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for post in site.member %}
+  {% include archive-single-member.html %}
 {% endfor %}
 
 Lin, Ming-Jen 林明仁
