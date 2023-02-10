@@ -1,6 +1,6 @@
 ---
-title: "陳由常 Yu-Chang, Chen"
-excerpt: "Assistant Professor, Department of Economics, National Taiwan University <br/><img src='/images/ycchen.jpeg'>"
+title: "陳冠銘 Kuan-Ming, Chen"
+excerpt: "Assistant Professor, Department of Economics, National Taiwan University<br/><img src='/images/faculty/kmchen.jpeg'>"
 collection: portfolio
 ---
 
