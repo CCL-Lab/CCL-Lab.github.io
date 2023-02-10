@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.member %}
+{% for post in site.members %}
   {% include archive-single-member.html %}
 {% endfor %}
 
