@@ -1,6 +1,6 @@
 ---
 title: "林明仁 Ming-Jen, Lin"
-id: mingjenlin
+title2: mingjenlin
 excerpt: "Professor, Department of Economics, National Taiwan University <br/><img src='/images/faculty/mingjenlin.jpg'>"
 collection: portfolio
 photo: "<br/><img src='/images/faculty/mingjenlin.jpg'>"

@@ -52,8 +52,17 @@
 
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.photo | markdownify }}
+      <br>
       <img src="{{ post.photo2 | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}">
     </p>
+
+    <!-- <div class="author__content">
+      <h3 class="author__name">{{ post.title }}</h3>
+      {% if author.bio %}
+        <p class="author__bio">{{ author.bio }}</p>
+      {% endif %}
+    </div> -->
+
     <!-- | prepend: base_path  -->
     <!-- {% if post.excerpt and site.read_more != 'enabled' %} -->
     <!-- <p class="archive__item-excerpt" itemprop="description">
