@@ -52,8 +52,8 @@
 
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.photo | markdownify }}
+      <img src="{{ post.photo2 | prepend: "/images/faculty/" | prepend: base_path }}" class="author__avatar" alt="{{ post.id }}">
     </p>
-
     <!-- {% if post.excerpt and site.read_more != 'enabled' %} -->
     <!-- <p class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | markdownify }}
