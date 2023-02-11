@@ -15,11 +15,13 @@
   </div> -->
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <h3 class="author__name">{{ post.name }}</h3>
+    {% if post.bio %}
+      <p class="author__bio">{{ post.bio }}</p>
+    {% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
+  <!-- <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
@@ -119,5 +121,5 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
     </ul>
-  </div>
+  </div> -->
 </div>
