@@ -82,39 +82,39 @@ analytics:
 author:
   name             : "CCL Lab"
   avatar           : "profile.png"
-  bio              : "Department of Economics, National Taiwan University"
+  bio              : "bio"
   location         : "Taipei, Taiwan"
-  employer         : "https://github.com/CCL-Lab"
-  pubmed           : "https://github.com/CCL-Lab" # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://github.com/CCL-Lab" # "http://yourfullgooglescholarurl.com"
+  employer         : "Assistant Professor, Department of Economics, National Taiwan University"
+  pubmed           :
+  googlescholar    : "Department of Economics, National Taiwan University"
   email            : "https://github.com/CCL-Lab"
-  researchgate     : "https://github.com/CCL-Lab"  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              : "https://github.com/CCL-Lab"
-  bitbucket        : "https://github.com/CCL-Lab"
-  codepen          : "https://github.com/CCL-Lab"
-  dribbble         : "https://github.com/CCL-Lab"
-  flickr           : "https://github.com/CCL-Lab"
-  facebook         : "https://github.com/CCL-Lab"
-  foursquare       : "https://github.com/CCL-Lab"
-  github           : "https://github.com/CCL-Lab"
-  google_plus      : "https://github.com/CCL-Lab"
-  keybase          : "https://github.com/CCL-Lab"
-  instagram        : "https://github.com/CCL-Lab"
-  impactstory      : "https://github.com/CCL-Lab" #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "https://github.com/CCL-Lab"
-  linkedin         : "https://github.com/CCL-Lab"
-  orcid            : "https://github.com/CCL-Lab" #"http://orcid.org/yourorcidurl"
-  pinterest        : "https://github.com/CCL-Lab"
-  soundcloud       : "https://github.com/CCL-Lab"
-  stackoverflow    : "https://github.com/CCL-Lab" # http://stackoverflow.com/users/123456/username
-  steam            : "https://github.com/CCL-Lab"
-  tumblr           : "https://github.com/CCL-Lab"
-  twitter          : "https://github.com/CCL-Lab"
-  vine             : "https://github.com/CCL-Lab"
-  weibo            : "https://github.com/CCL-Lab"
-  xing             : "https://github.com/CCL-Lab"
-  youtube          : "https://github.com/CCL-Lab"
-  wikipedia        : "https://github.com/CCL-Lab"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : 
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        : 
 
 
 # Reading Files
