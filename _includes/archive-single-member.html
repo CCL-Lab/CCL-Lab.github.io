@@ -67,8 +67,7 @@
         <img src="{{ post.photo | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}">
       </div>
     </div>
-
-    <div style="width:300px; height:auto; float:left; display:inline">
+    <div style="width:600px; height:auto; float:left; display:inline">
       <div class="author__content">
         <h2 class="author__name">{{ post.title }}</h2>
         {% if post.bio %}
@@ -96,6 +95,7 @@
         </ul>
       </div>
     </div>
+    <br>
+    <hr>
   </div>
-  <hr>
 </div>
