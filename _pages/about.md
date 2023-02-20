@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About CCL Lab"
+title: "About Us"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-The CCL Lab of the Department of Economics at National Taiwan University is jointly led by Professor Ming-Jen Lin, Associate Professor Yu-Chang Chen, and Associate Professor Kuan-Ming Chen. The lab's primary research areas include labor economics, health economics, econometrics, data science, and the application of big data in administrative and business contexts. This involves analyzing government administrative or survey data and collaborating with various external companies to develop data science projects, including PChome, Just Dating, PaGameO, and iCheers.
+The CCL Lab of the Department of Economics at National Taiwan University is jointly led by Professor Ming-Jen Lin, Associate Professor Yu-Chang Chen, and Associate Professor Kuan-Ming Chen. CCL lab's primary research areas include labor economics, health economics, econometrics, data science, and the application of big data in administrative and business contexts. 
 
-The lab's research topics are diverse and include (1) the various impacts of long-term care needs on family members, (2) the long-term effects of domestic violence on family members, (3) the relationship between family property transfer and family structure, (4) the impact of childhood disabilities on families, (5) intergenerational health transfer, (6) the impact of medication subsidies on health and employment status, and data research collaboration with companies on (7) the impact of online learning platforms on the academic and motivational performance of low-achieving students, (8) the dynamic learning patterns of dating website users, and (9) the recommendation algorithm and user retention of e-commerce websites, among others.
+We conduct data analysis using government administrative or survey data, and we also collaborate with various external businesses to develop data science research projects, including PChome, Just Dating, PaGameO, and iCheers. Our current research topics include the following:
+1. The impact of long-term care needs on family members.
+2. The long-term effects of domestic violence on family members. 
+3. The relationship between family property transfer and family structure. 
+4. The impact of children's physical and mental disabilities on families.
+5. Intergenerational health transfer.
+6. The effects of drug subsidies on health and labor conditions. 
+7. Examining the impact of online learning platforms on the academic achievement and learning motivation of underachieving students
+8. Analyzing the dynamic learning patterns of users on dating websites
+9. Exploring recommendation algorithms and user retention on e-commerce websites.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
