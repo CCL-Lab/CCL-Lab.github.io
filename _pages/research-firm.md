@@ -1,31 +1,13 @@
 ---
 layout: archive
 title: "Research (firm)"
-permalink: /Research-firm/
+permalink: /research-firm/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-Lin, Ming-Jen 林明仁
-=====
-* Professor, Department of Economics, National Taiwan University
-* email: 	yuchangchen@ntu.edu.tw
-* Website: https://yu-chang-chen.github.io/
-
-Chen, Yu-Chang 陳由常
-=====
-* Assistant Professor, Department of Economics, National Taiwan University
-* email: mjlin@ntu.edu.tw
-* Website: http://homepage.ntu.edu.tw/~mjlin/
-
-Chen, Kuan-Ming 陳冠銘
-=====
-* Assistant Professor, Department of Economics, National Taiwan University
-* email: kuanmingchen@ntu.edu.tw
-* Website: https://sites.google.com/view/kmchen
 
 
 Education
