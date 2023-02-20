@@ -2,6 +2,10 @@
 title: "陳由常 Yu-Chang, Chen"
 title2: yuchangchen
 excerpt: "Assistant Professor, Department of Economics, National Taiwan University<br/><img src='/images/faculty/yuchangchen.jpeg'>"
+position: Assistant Professor, Department of Economics, National Taiwan University
+scholar: Ph.D. Economics, UC San Diego, 2022.
+email: 	yuchangchen@ntu.edu.tw
+website: https://yu-chang-chen.github.io/
 collection: portfolio
 # photo: "<br/><img src='/images/faculty/yuchangchen.jpeg'>"
 photo: yuchangchen.jpeg

@@ -2,6 +2,10 @@
 title: "林明仁 Ming-Jen, Lin"
 title2: mingjenlin
 excerpt: "Professor, Department of Economics, National Taiwan University <br/><img src='/images/faculty/mingjenlin.jpeg'>"
+position: Distinguished Professor, Department of Economics, National Taiwan University
+scholar: Ph.D. Economics, University of Chicago, 2002.
+email: mjlin@ntu.edu.tw
+website: http://homepage.ntu.edu.tw/~mjlin/
 collection: portfolio
 # photo: "<br/><img src='/images/faculty/mingjenlin.jpeg'>"
 photo: mingjenlin.jpeg

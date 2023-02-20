@@ -2,11 +2,10 @@
 title: "陳冠銘 Kuan-Ming, Chen"
 title2: kuanmingchen
 excerpt: "Assistant Professor, Department of Economics, National Taiwan University<br/><img src='/images/faculty/kuanmingchen.jpeg'>"
-location: 123
-employer: 234
-uri: 234
-email: 234
-googlescholar: 234
+position: Assistant Professor, Department of Economics, National Taiwan University
+scholar: Ph.D. Economics, University of Chicago, 2021.
+email: kuanmingchen@ntu.edu.tw
+website: https://sites.google.com/view/kmchen
 collection: portfolio
 # photo: "<br/><img src='/images/faculty/kuanmingchen.jpeg'>"
 photo: kuanmingchen.jpeg
