@@ -34,17 +34,19 @@
           <span class="sr-only">Permalink</span>
         </a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <strong>
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        </strong>
       {% endif %}
     </h2>
-    <p class="archive__item-excerpt" itemprop="description">
-      <p>
+    <!-- <p class="archive__item-excerpt" itemprop="description"> -->
+      <!-- <p> -->
         <!-- {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} -->
-        <strong>
+        <!-- <strong>
           <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a>
-        </strong>
-      </p>
-    </p>
+        </strong> -->
+      <!-- </p> -->
+    <!-- </p> -->
   </article>  
     <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -90,5 +92,6 @@
         {% endif %}
       </ul>
     </div>
-  </div>  
+  </div>
+  <hr>
 </div>
