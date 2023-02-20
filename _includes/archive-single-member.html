@@ -61,36 +61,40 @@
         {% endif %} -->
         
   <div itemscope itemtype="http://schema.org/Person">
-    <div class="author__avatar">
-      <br>
-      <img src="{{ post.photo | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}">
+    <div style="width:300px; height:auto; float:left; display:inline">
+      <div class="author__avatar">
+        <br>
+        <img src="{{ post.photo | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}">
+      </div>
     </div>
 
-    <div class="author__content">
-      <h2 class="author__name">{{ post.title }}</h2>
-      {% if author.bio %}
-        <p class="author__bio">{{ post.bio }}</p>
-      {% endif %}
-    </div>
+    <div style="width:300px; height:auto; float:left; display:inline">
+      <div class="author__content">
+        <h2 class="author__name">{{ post.title }}</h2>
+        {% if post.bio %}
+          <p class="author__bio">{{ post.bio }}</p>
+        {% endif %}
+      </div>
 
-    <div class="author__urls-wrapper">
-      <ul class="author__urls social-icons">
-        {% if post.position %}
-          <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ post.position }}</li>
-        {% endif %}
-        {% if post.scholar %}
-          <li><i class="fas fa-fw fa-graduation-cap"></i> {{ post.scholar }}</li>
-        {% endif %}
-        {% if post.email %}
-          <li><a href="mailto:{{ post.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ post.email }}</a></li>
-          <!-- <li><a href="mailto:{{ post.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
-        {% endif %}
-        {% if post.website %}
-          <!-- <li><a href="{{ post.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li> -->
-          <li><a href="{{ post.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ post.website }}</a></li>
-        {% endif %}
+      <div class="author__urls-wrapper">
+        <ul class="author__urls social-icons">
+          {% if post.position %}
+            <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ post.position }}</li>
+          {% endif %}
+          {% if post.scholar %}
+            <li><i class="fas fa-fw fa-graduation-cap"></i> {{ post.scholar }}</li>
+          {% endif %}
+          {% if post.email %}
+            <li><a href="mailto:{{ post.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ post.email }}</a></li>
+            <!-- <li><a href="mailto:{{ post.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
+          {% endif %}
+          {% if post.website %}
+            <!-- <li><a href="{{ post.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li> -->
+            <li><a href="{{ post.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ post.website }}</a></li>
+          {% endif %}
 
-      </ul>
+        </ul>
+      </div>
     </div>
   </div>
   <hr>
