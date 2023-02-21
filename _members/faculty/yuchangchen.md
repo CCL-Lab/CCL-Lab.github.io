@@ -1,8 +1,15 @@
 ---
-chinese_name: 陳由常
-english_name: Yu-Chang, Chen
+title: "陳由常 Yu-Chang, Chen"
+title2: yuchangchen
+excerpt: "Assistant Professor, Department of Economics, National Taiwan University<br/><img src='/images/faculty/yuchangchen.jpeg'>"
 position: Assistant Professor, Department of Economics, National Taiwan University
-department: 123
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-blurb: 123
+scholar: Ph.D. Economics, UC San Diego, 2022.
+email: 	yuchangchen@ntu.edu.tw
+website: https://yu-chang-chen.github.io/
+collection: portfolio
+# photo: "<br/><img src='/images/faculty/yuchangchen.jpeg'>"
+photo: yuchangchen.jpeg
+bio: This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 ---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
