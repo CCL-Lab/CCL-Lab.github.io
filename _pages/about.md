@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Us"
-excerpt: "About me"
+title: "CCL Lab"
+excerpt: "Create. Collaborate. Learn."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header: 
-  caption: caption
-  cta_url: cta_url
+  caption: 
+  cta_url:
   image: image
   overlay_color: #RRGGBB
   overlay_image: banner.jpeg
@@ -16,6 +16,7 @@ header:
 
 ---
 
+About Us
 ------
 The CCL Lab of the Department of Economics at National Taiwan University is jointly led by Professor Ming-Jen Lin, Associate Professor Yu-Chang Chen, and Associate Professor Kuan-Ming Chen. CCL lab's primary research areas include labor economics, health economics, econometrics, data science, and the application of big data in administrative and business contexts. 
 
