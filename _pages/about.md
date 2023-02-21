@@ -6,6 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header: 
+  caption: caption
+  cta_url: cta_url
+  image: image
+  overlay_color: #RRGGBB
+  overlay_image: banner.jpeg
+
+
 ---
 
 ------

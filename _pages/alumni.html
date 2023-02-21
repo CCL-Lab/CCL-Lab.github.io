@@ -8,9 +8,7 @@ image: banner.jpeg
 
 {% include base_path %}
 
-{% include page__hero.html %}
-
-{% for post in site.members.faculty %}
+{% for post in site.portfolio %}
   {% include archive-single-member.html %}
 {% endfor %}
 
