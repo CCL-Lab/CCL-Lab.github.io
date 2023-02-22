@@ -17,6 +17,8 @@ header:
   {% include archive-single-faculty.html %}
 {% endfor %}
 
-{% for post in site.members | where "position", "Part-time Research Assistant"  %}
-  {% include archive-single-faculty.html %}
+{% for post in site.members %}
+  {% if post.type == "faculty" %}
+    {% include archive-single-faculty.html %}
+  {% endif %}
 {% endfor %}
