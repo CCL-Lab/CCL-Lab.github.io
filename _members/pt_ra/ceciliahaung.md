@@ -1,6 +1,7 @@
 ---
 chinese_name: 黃意婷
 english_name: Cecilia Huang
+title: 黃意婷 Cecilia Huang
 id: ceciliahuang
 collection: members
 position: Part-time Research Assistant
