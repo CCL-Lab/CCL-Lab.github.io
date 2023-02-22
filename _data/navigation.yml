@@ -15,6 +15,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Members"
+    url: /members/
+
   - title: "Alumni"
     url: /alumni/
 
