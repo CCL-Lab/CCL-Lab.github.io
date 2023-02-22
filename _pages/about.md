@@ -12,8 +12,6 @@ header:
   image: image
   overlay_color: #RRGGBB
   overlay_image: banner.jpeg
-
-
 ---
 
 About Us
