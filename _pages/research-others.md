@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!-- 
 Lin, Ming-Jen 林明仁
 =====
 * Professor, Department of Economics, National Taiwan University
@@ -75,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
