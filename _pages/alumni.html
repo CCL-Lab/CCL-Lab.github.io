@@ -13,7 +13,14 @@ header:
 
 {% include base_path %}
 
-{% for post in site.portfolio.faculty %}
-  {% include archive-single-faculty.html %}
-{% endfor %}
+<div>
+  <h1>Alumni</h1><Hr>
+    {% for post in site.members %}
+      {% if post.type == "alumni" %}
+        {% include archive-single-assistant.html %}
+      {% endif %}
+    {% endfor %}
+  <Br>
+</div>
+<Br>
 
