@@ -13,10 +13,6 @@ header:
 
 {% include base_path %}
 
-{% for post in site.members.faculty %}
-  {% include archive-single-faculty.html %}
-{% endfor %}
-
 {% for post in site.members %}
   {% if post.type == "faculty" %}
     {% include archive-single-faculty.html %}
