@@ -1,6 +1,7 @@
 ---
 chinese_name: 廖紳勛
 english_name: Shen Liao
+title: 廖紳勛 Shen Liao
 id: shenliao
 collection: members
 position: Part-time Research Assistant

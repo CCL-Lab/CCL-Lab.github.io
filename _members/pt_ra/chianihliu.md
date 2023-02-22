@@ -1,6 +1,7 @@
 ---
 chinese_name: 劉家妮
 english_name: LIU, CHIA-NIH
+title: 劉家妮 LIU, CHIA-NIH
 id: chianihliu
 collection: members
 position: Part-time Research Assistant

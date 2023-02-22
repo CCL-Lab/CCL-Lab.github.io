@@ -1,6 +1,7 @@
 ---
 chinese_name: 蔡尚恩
 english_name: Daniel Tsai
+title: 蔡尚恩 Daniel Tsai
 id: danieltsai
 collection: members
 position: Part-time Research Assistant

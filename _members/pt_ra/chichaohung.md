@@ -1,6 +1,7 @@
 ---
 chinese_name: 洪啟超
 english_name: Chi-Chao, Hung
+title: 洪啟超 Chi-Chao, Hung
 id: chichaohung
 collection: members
 position: Part-time Research Assistant

@@ -1,6 +1,7 @@
 ---
 chinese_name: 史秉奇
 english_name: Joseph Shig
+title: 史秉奇 Joseph Shig
 id: josephshig
 collection: members
 position: Part-time Research Assistant

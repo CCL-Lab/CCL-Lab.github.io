@@ -1,6 +1,7 @@
 ---
 chinese_name: 樊惟祐
 english_name: Well Fan
+title: 樊惟祐 Well Fan
 id: wellfan
 collection: members
 position: Part-time Research Assistant

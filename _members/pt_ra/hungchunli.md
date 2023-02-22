@@ -1,6 +1,7 @@
 ---
 chinese_name: 黎宏濬
 english_name: Hung-Chun, Li
+title: 黎宏濬 Hung-Chun, Li
 id: hungchunli
 collection: members
 position: Part-time Research Assistant

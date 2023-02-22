@@ -1,6 +1,7 @@
 ---
 chinese_name: 賴映蓉
 english_name: Ingrid Lai
+title: 賴映蓉 Ingrid Lai
 id: ingridlai
 collection: members
 position: Part-time Research Assistant

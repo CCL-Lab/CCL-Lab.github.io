@@ -1,6 +1,7 @@
 ---
 chinese_name: 顏嘉樂
 english_name: Chia-Le Yen
+title: 顏嘉樂 Chia-Le Yen
 id: chialeyen
 collection: members
 position: Part-time Research Assistant

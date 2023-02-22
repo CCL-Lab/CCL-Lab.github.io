@@ -1,6 +1,7 @@
 ---
 chinese_name: 連振安
 english_name: Chen-An, Lien
+title: 連振安 Chen-An, Lien
 id: chenanlien
 collection: members
 position: Part-time Research Assistant

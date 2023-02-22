@@ -1,6 +1,7 @@
 ---
 chinese_name: 沈育德
 english_name: Yu-Te Shen
+title: 沈育德 Yu-Te Shen
 id: yuteshen
 collection: members
 position: Part-time Research Assistant

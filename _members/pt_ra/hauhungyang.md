@@ -1,6 +1,7 @@
 ---
 chinese_name: 楊昊紘
 english_name: Hau-Hung, Yang
+title: 楊昊紘 Hau-Hung, Yang
 id: hauhungyang
 collection: members
 position: Part-time Research Assistant

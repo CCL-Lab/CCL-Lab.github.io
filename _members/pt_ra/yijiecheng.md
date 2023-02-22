@@ -1,6 +1,7 @@
 ---
 chinese_name: 程依倢
 english_name: CHENG YI-JIE
+title: 程依倢 CHENG YI-JIE
 id: yijiecheng
 collection: members
 position: Part-time Research Assistant

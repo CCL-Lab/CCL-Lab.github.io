@@ -1,6 +1,7 @@
 ---
 chinese_name: 王愷均
 english_name: Kai-Jyun, Wang
+title: 王愷均 Kai-Jyun, Wang
 id: kaijyunwang
 collection: members
 position: Part-time Research Assistant

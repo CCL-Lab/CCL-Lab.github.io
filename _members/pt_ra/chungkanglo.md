@@ -1,6 +1,7 @@
 ---
 chinese_name: 羅崇綱
 english_name: Lo Chung-Kang
+title: 羅崇綱 Lo Chung-Kang
 id: chungkanglo
 collection: members
 position: Part-time Research Assistant

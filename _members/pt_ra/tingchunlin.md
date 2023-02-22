@@ -1,6 +1,7 @@
 ---
 chinese_name: 林鼎鈞
 english_name: Ting-Chun, Lin
+title: 林鼎鈞 Ting-Chun, Lin
 id: tinchunlin
 collection: members
 position: Part-time Research Assistant

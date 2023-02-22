@@ -1,6 +1,7 @@
 ---
 chinese_name: 黃泓愷
 english_name: HUNG-KAI, HUANG
+title: 黃泓愷 HUNG-KAI, HUANG
 id: hungkaihaung
 collection: members
 position: Part-time Research Assistant

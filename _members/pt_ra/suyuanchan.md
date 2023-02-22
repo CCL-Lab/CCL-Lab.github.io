@@ -1,6 +1,7 @@
 ---
 chinese_name: 詹書媛
 english_name: Su-Yuan Chan
+title: 詹書媛 Su-Yuan Chan
 id: suyuanchan
 collection: members
 position: Part-time Research Assistant

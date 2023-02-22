@@ -1,6 +1,7 @@
 ---
 chinese_name: 洪挺智
 english_name: Ting-Chih, Hung
+title: 洪挺智 Ting-Chih, Hung
 id: tingchihhung
 collection: members
 position: Part-time Research Assistant

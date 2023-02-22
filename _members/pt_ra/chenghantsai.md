@@ -1,6 +1,7 @@
 ---
 chinese_name: 蔡承翰
 english_name: Cheng-Han, Tsai
+title: 蔡承翰 Cheng-Han, Tsai
 id: chenghantsai
 collection: members
 position: Part-time Research Assistant
