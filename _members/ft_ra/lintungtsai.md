@@ -4,7 +4,7 @@ english_name: Lin-Tung, Tsai
 title: 蔡霖東 Lin-Tung, Tsai
 id: lintungtsai
 collection: members
-type: full-time research assitant
+type: full-time research assistant
 position: Full-time Research Assistant 
 department: 123
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
