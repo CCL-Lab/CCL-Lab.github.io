@@ -13,7 +13,10 @@ header:
 
 {% include base_path %}
 
-{% for post in site.members %}
+{% for post in site.members.faculty %}
   {% include archive-single-faculty.html %}
 {% endfor %}
 
+{% for post in site.members | where "position", "Part-time Research Assistant"  %}
+  {% include archive-single-faculty.html %}
+{% endfor %}

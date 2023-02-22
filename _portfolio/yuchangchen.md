@@ -6,7 +6,7 @@ position: Assistant Professor, Department of Economics, National Taiwan Universi
 scholar: Ph.D. Economics, UC San Diego, 2022.
 email: 	yuchangchen@ntu.edu.tw
 website: https://yu-chang-chen.github.io/
-collection: members
+collection: portfolio
 # photo: "<br/><img src='/images/faculty/yuchangchen.jpeg'>"
 photo: yuchangchen.jpeg
 bio: This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
