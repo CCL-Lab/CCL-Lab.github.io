@@ -14,19 +14,21 @@ header:
 {% include base_path %}
 
 <div>
-  <h1>Faculty</h1><Br>
+  <h1>Faculty</h1><Hr>
     {% for post in site.members %}
       {% if post.type == "faculty" %}
         {% include archive-single-faculty.html %}
       {% endif %}
     {% endfor %}
+  <Br>
 </div>
 
 <div>
-  <h1>Administrative Assistant</h1><Br>
+  <h1>Administrative Assistant</h1><Hr>
     {% for post in site.members %}
       {% if post.type == "administrative assistant" %}
         {% include archive-single-assistant.html %}
       {% endif %}
     {% endfor %}
+  <Br>
 </div>
