@@ -1,6 +1,7 @@
 ---
 chinese_name: 陳季翔
 english_name: Edward Chen
+id: edwardchen
 collection: members
 position: Others
 types: others

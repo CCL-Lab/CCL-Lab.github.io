@@ -1,6 +1,7 @@
 ---
 chinese_name: 蔡霖東
 english_name: Lin-Tung, Tsai
+id: lintungtsai
 collection: members
 type: full-time research assitant
 position: Full-time Research Assistant 

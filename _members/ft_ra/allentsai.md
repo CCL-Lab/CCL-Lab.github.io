@@ -1,6 +1,7 @@
 ---
 chinese_name: 蔡銘倫
 english_name: Allen Tsai
+id: allentsai
 collection: members
 type: full-time research assitant
 position: Full-time Research Assistant

@@ -1,6 +1,7 @@
 ---
 chinese_name: 陳彥淇
 english_name: Yen-Chi Chen
+id: yenchichen
 collection: members
 type: full-time research assitant
 position: Full-time Research Assistant 
