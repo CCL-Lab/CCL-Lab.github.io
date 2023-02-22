@@ -13,12 +13,16 @@ header:
 
 {% include base_path %}
 
+Faculty
+------
 {% for post in site.members %}
   {% if post.type == "faculty" %}
     {% include archive-single-faculty.html %}
   {% endif %}
 {% endfor %}
 
+Administrative Assistant
+------
 {% for post in site.members %}
   {% if post.type == "administrative assistant" %}
     {% include archive-single-assistant.html %}
