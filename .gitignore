@@ -9,7 +9,10 @@ _data/comments/
 
 _pages/member.md
 _pages/talks.html
+_pages/talkmap.html
 _pages/teaching.html
 _pages/publications.md
 _portfolio
 _pages/portfolio_test.html
+talkmap/
+_includes/archive-single-talk.html
