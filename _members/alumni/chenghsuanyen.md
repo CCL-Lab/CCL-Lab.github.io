@@ -10,4 +10,7 @@ department: 123
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: chenghsuanyen.jpeg
 blurb: 123
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
