@@ -8,6 +8,6 @@ position: Administrative Assistant
 type: administrative assistant
 department: 123
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: kuanmingchen.jpeg
+photo: rebeccahung.jpg
 blurb: 123
 ---
