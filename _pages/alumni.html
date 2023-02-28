@@ -13,11 +13,18 @@ header:
 
 {% include base_path %}
 
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
 <div>
   <h1>Alumni</h1><Hr>
     {% for post in site.members %}
       {% if post.type == "alumni" %}
         {% include archive-single-assistant.html %}
+        {% include archive-single-alumni.html %}
       {% endif %}
     {% endfor %}
   <Br>
