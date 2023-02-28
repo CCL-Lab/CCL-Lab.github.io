@@ -6,11 +6,11 @@ id: yitongzhao
 collection: members
 position: Alumni
 type: alumni
-department: 123
+department: "Penn State University"
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: yitongzhao.jpg
 blurb: 123
-venue: "UC San Francisco, Department of Testing"
+venue: "Penn State University"
 date: 2012-03-01
-location: "San Francisco, California"
+location: "State College, PA 16801美國"
 ---

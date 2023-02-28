@@ -10,7 +10,7 @@ department: 123
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: pokanghsiao.jpg
 blurb: 123
-venue: "UC San Francisco, Department of Testing"
+venue: "University of Wisconsin-Madison"
 date: 2012-03-01
-location: "San Francisco, California"
+location: "Madison, WI, 美國"
 ---

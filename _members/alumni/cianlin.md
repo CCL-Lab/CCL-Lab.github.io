@@ -6,11 +6,11 @@ id: cianlin
 collection: members
 position: Alumni
 type: alumni
-department: 123
+department: "London School of Economics and Political Science (LSE)"
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: cianlin.jpg
 blurb: 123
-venue: "UC San Francisco, Department of Testing"
+venue: "London School of Economics and Political Science (LSE)"
 date: 2012-03-01
-location: "San Francisco, California"
+location: "Houghton St, London WC2A 2AE英國"
 ---
