@@ -15,17 +15,17 @@
 <div class="{{ include.type | default: "list" }}__item">  
   <div itemscope itemtype="http://schema.org/Person">
   <!-- </div> style="display: flex; justify-content: center;"> -->
-    <div style="width:300px; display:inline-block; text-align:center;">
-    <!-- </div>; height:auto; display:inline"> -->
-      <div class="author__avatar">
+    <div style="width:300px; height:400; display:inline-block; text-align:center;">
+    <!-- </div>; display:inline"> -->
+      <div class="author__avatar" style="display: block; margin: 0 auto;">
         <br>
         <img src="{{ '/images/' | append: post.photo }}" class="author__avatar" alt="{{ post.id }}">
       </div>
       <div class="author__content">
         <h2 class="author__name">{{ post.title }}</h2>
-        <!-- {% if post.bio %}
-          <p class="author__bio">{{ post.bio }}</p>
-        {% endif %} -->
+        {% if post.department %}
+          <p class="author__bio">{{ post.department }}</p>
+        {% endif %}
       </div>
     </div>
   </div>
