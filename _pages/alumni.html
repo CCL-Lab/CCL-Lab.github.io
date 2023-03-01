@@ -25,7 +25,24 @@ header:
   
   <h2>Alumni Map</h2><Hr>
   <!-- This map is generated from a Jupyter Notebook file in /_members/alumni/alumnimap.ipynb. -->
-  <iframe src="/alumnimap/map.html" height="700" width="1200" style="border:none;"></iframe>
+  <div class="footer">
+    <iframe src="/alumnimap/map.html" height="700" width="1200" style="border:none;"></iframe>
+  </div>
+  <style>
+    .footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 300px;
+    }
+    
+    .footer img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
   <Br>
 </div>
 <Br>
