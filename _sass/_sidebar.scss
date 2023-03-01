@@ -245,23 +245,23 @@
     vertical-align: top;
     width: 36px;
     height: 36px; /* 新增這行 */
-    padding-top: 100%; /* 新增這行 */
   
     @include breakpoint($large) {
       display: block;
       width: auto;
       height: auto;
-      padding-top: 0; /* 新增這行 */
     }
   
     img {
-      max-width: 100%;
+      max-width: 175px;
+      width: 100%; // 將寬度設為 100%
+      height: auto;
       border-radius: 50%;
-      position: absolute; /* 新增這行 */
-      top: 0; /* 新增這行 */
-      left: 0; /* 新增這行 */
-      bottom: 0; /* 新增這行 */
-      right: 0; /* 新增這行 */
+  
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid $border-color;
+      }
     }
   }
   
