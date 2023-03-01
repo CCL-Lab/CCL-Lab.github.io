@@ -13,14 +13,14 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">  
-  <div itemscope itemtype="http://schema.org/Person" style="display: flex; justify-content: center;">
-    <div style="width:300px; height:auto; display:inline">
+  <div itemscope itemtype="http://schema.org/Person">
+  <!-- </div> style="display: flex; justify-content: center;"> -->
+    <div style="width:300px; display:inline-block; text-align:center;">
+    <!-- </div>; height:auto; display:inline"> -->
       <div class="author__avatar">
         <br>
         <img src="{{ '/images/' | append: post.photo }}" class="author__avatar" alt="{{ post.id }}">
       </div>
-    <!-- </div>
-    <div style="width:600px; height:auto; float:left; display:inline"> -->
       <div class="author__content">
         <h2 class="author__name">{{ post.title }}</h2>
         <!-- {% if post.bio %}
