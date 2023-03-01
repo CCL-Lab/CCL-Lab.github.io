@@ -240,32 +240,32 @@
    Assitant profile and links
    ========================================================================== */
 
-  .assitant__avatar {
+  .assistant__avatar {
     display: table-cell;
     vertical-align: top;
     width: 36px;
-    // set width only, for non-square avatars
-    // height: 36px;
+    height: 36px; /* 新增這行 */
+    padding-top: 100%; /* 新增這行 */
   
     @include breakpoint($large) {
       display: block;
       width: auto;
       height: auto;
+      padding-top: 0; /* 新增這行 */
     }
   
     img {
-      max-width: 100%; /* 這裡修改 */
+      max-width: 100%;
       border-radius: 50%;
-      height: auto; /* 新增這行 */
-  
-      @include breakpoint($large) {
-        padding: 5px;
-        border: 1px solid $border-color;
-      }
+      position: absolute; /* 新增這行 */
+      top: 0; /* 新增這行 */
+      left: 0; /* 新增這行 */
+      bottom: 0; /* 新增這行 */
+      right: 0; /* 新增這行 */
     }
   }
   
-  .assitant__content {
+  .assistant__content {
     display: table-cell;
     vertical-align: top;
     padding-left: 15px;
@@ -280,7 +280,7 @@
     }
   }
   
-  .assitant__name {
+  .assistant__name {
     margin: 0;
   
     @include breakpoint($large) {
@@ -288,7 +288,7 @@
       margin-bottom: 10px;
     }
   }
-  .sidebar .assitant__name {
+  .sidebar .assistant__name {
     font-family: $sans-serif;
     font-size: $type-size-5;
   }
