@@ -15,14 +15,15 @@ header:
 
 <div>
   <h1>Alumni</h1><Hr>
-
+  <div style="display: flex; flex-wrap: wrap;">
     {% for post in site.members %}
       {% if post.type == "alumni" %}
         {% include archive-single-assistant.html %}
       {% endif %}
     {% endfor %}
-
-    <!-- This map is generated from a Jupyter Notebook file in /_members/alumni/alumnimap.ipynb. -->
+  </div>
+  
+  <!-- This map is generated from a Jupyter Notebook file in /_members/alumni/alumnimap.ipynb. -->
   <iframe src="/alumnimap/map.html" height="700" width="1200" style="border:none;"></iframe>
   <Br>
 </div>
