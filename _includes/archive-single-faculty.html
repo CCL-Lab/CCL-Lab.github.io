@@ -17,7 +17,7 @@
     <div style="width:300px; height:auto; float:left; display:inline">
       <div class="author__avatar">
         <br>
-        <img src="{{ post.photo | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}">
+        <img src="{{ post.photo | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}" style="display: inline-block; vertical-align: middle;">
       </div>
     </div>
     <div style="width:600px; height:auto; float:left; display:inline">
@@ -38,10 +38,8 @@
           {% endif %}
           {% if post.email %}
             <li><a href="mailto:{{ post.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ post.email }}</a></li>
-            <!-- <li><a href="mailto:{{ post.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
           {% endif %}
           {% if post.website %}
-            <!-- <li><a href="{{ post.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li> -->
             <li><a href="{{ post.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ post.website }}</a></li>
           {% endif %}
         </ul>
