@@ -11,6 +11,5 @@ department: "還在等offer"
 location: "Taipei, Taiwan"
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: alumni/chenghsuanyen.jpeg
-blurb: 123
-cohort: 23'
+cohort: Class of 2023
 ---
