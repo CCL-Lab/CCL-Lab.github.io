@@ -25,7 +25,7 @@ header:
   <Br>
 
   <h1>Administrative Assistant</h1><Hr>
-    <div>
+    <div style="display: flex; flex-wrap: wrap;">
       {% for post in site.members %}
         {% if post.type == "administrative assistant" %}
           {% include archive-single-assistant.html %}
@@ -35,7 +35,7 @@ header:
   <Br>
 
   <h1>Full-Time Research Assistant</h1><Hr>
-    <div>
+    <div style="display: flex; flex-wrap: wrap;">
       {% for post in site.members %}
         {% if post.type == "full-time research assistant" %}
           {% include archive-single-assistant.html %}
@@ -45,7 +45,7 @@ header:
   <Br>
 
   <h1>Part-Time Research  Assistant</h1><Hr>
-    <div>
+    <div style="display: flex; flex-wrap: wrap;">
       {% for post in site.members %}
         {% if post.type == "part-time research assistant" %}
           {% include archive-single-assistant.html %}
