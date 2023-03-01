@@ -48,11 +48,13 @@ header:
 
 <div>
   <h1>Part-Time Research  Assistant</h1><Hr>
-    {% for post in site.members %}
-      {% if post.type == "part-time research assistant" %}
-        {% include archive-single-assistant.html %}
-      {% endif %}
-    {% endfor %}
+    <div>
+      {% for post in site.members %}
+        {% if post.type == "part-time research assistant" %}
+          {% include archive-single-assistant.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
   <Br>
 </div>
 <Br>
