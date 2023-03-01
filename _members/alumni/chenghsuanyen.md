@@ -6,11 +6,11 @@ id: chenghsuanyen
 collection: members
 position: Alumni
 type: alumni
-department: "還在等offer"
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: chenghsuanyen.jpeg
-blurb: 123
 venue: "還在等offer"
-date: 2012-03-01
+department: "還在等offer"
 location: "Taipei, Taiwan"
+image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
+photo: alumni/chenghsuanyen.jpeg
+blurb: 123
+cohort: 23'
 ---

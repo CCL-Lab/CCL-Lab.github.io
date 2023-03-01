@@ -7,10 +7,12 @@ collection: members
 position: Alumni
 type: alumni
 department: "University of Wisconsin-Madison"
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pokanghsiao.jpg
-blurb: 123
 venue: "University of Wisconsin-Madison"
-date: 2012-03-01
 location: "Madison, WI, 美國"
+image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
+photo: alumni/pokanghsiao.jpg
+blurb: 123
+date: 2012-03-01
+cohort: 23'
+
 ---
