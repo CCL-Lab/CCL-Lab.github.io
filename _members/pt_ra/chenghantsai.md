@@ -6,7 +6,7 @@ id: chenghantsai
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
-department: 123
+department: 財務金融學系學士班五年級
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: pt_ra/chenghantsai.jpg
 blurb: 123
