@@ -8,6 +8,6 @@ position: Part-time Research Assistant
 type: part-time research assistant
 department: 123
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: chialeyen.jpeg
+photo: pt_ra/chialeyen.jpeg
 blurb: 123
 ---

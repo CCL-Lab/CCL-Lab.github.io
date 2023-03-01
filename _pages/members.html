@@ -15,38 +15,35 @@ header:
 
 <div>
   <h1>Faculty</h1><Hr>
-    {% for post in site.members %}
+    <div>
+      {% for post in site.members %}
       {% if post.type == "faculty" %}
         {% include archive-single-faculty.html %}
       {% endif %}
     {% endfor %}
+    </div>
   <Br>
-</div>
-<Br>
 
-<div>
   <h1>Administrative Assistant</h1><Hr>
-    {% for post in site.members %}
-      {% if post.type == "administrative assistant" %}
-        {% include archive-single-assistant.html %}
-      {% endif %}
-    {% endfor %}
+    <div>
+      {% for post in site.members %}
+        {% if post.type == "administrative assistant" %}
+          {% include archive-single-assistant.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
   <Br>
-</div>
-<Br>
 
-<div>
   <h1>Full-Time Research Assistant</h1><Hr>
-    {% for post in site.members %}
-      {% if post.type == "full-time research assistant" %}
-        {% include archive-single-assistant.html %}
-      {% endif %}
-    {% endfor %}
+    <div>
+      {% for post in site.members %}
+        {% if post.type == "full-time research assistant" %}
+          {% include archive-single-assistant.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
   <Br>
-</div>
-<Br>
 
-<div>
   <h1>Part-Time Research  Assistant</h1><Hr>
     <div>
       {% for post in site.members %}

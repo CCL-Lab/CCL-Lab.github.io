@@ -17,7 +17,7 @@
     <div style="width:300px; height:auto; float:left; display:inline">
       <div class="author__avatar">
         <br>
-        <img src="{{ post.photo | prepend: "/images/faculty/" }}" class="author__avatar" alt="{{ post.id }}">
+        <img src="{{ '/images/' | append: post.photo }}" class="author__avatar" alt="{{ post.id }}">
       </div>
     <!-- </div>
     <div style="width:600px; height:auto; float:left; display:inline"> -->

@@ -9,6 +9,6 @@ position: Full-time Research Assistant
 department: 123
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 collection: members
-photo: yenchichen.jpeg
+photo: ft_ra/yenchichen.jpeg
 blurb: 123
 ---
