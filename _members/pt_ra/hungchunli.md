@@ -6,8 +6,8 @@ id: hungchunli
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
-department: 農業經濟學系碩士班一年級
+department: 借調中華民國陸軍
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pt_ra/bio-photo.jpg
+photo: pt_ra/hungchunli.jpg
 blurb: 123
 ---
