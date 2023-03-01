@@ -235,3 +235,60 @@
     }
   }
 }
+
+/*
+   Assitant profile and links
+   ========================================================================== */
+
+  .assitant__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 36px;
+    // set width only, for non-square avatars
+    // height: 36px;
+  
+    @include breakpoint($large) {
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  
+    img {
+      max-width: 100%; /* 這裡修改 */
+      border-radius: 50%;
+      height: auto; /* 新增這行 */
+  
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid $border-color;
+      }
+    }
+  }
+  
+  .assitant__content {
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 25px;
+    line-height: 1;
+  
+    @include breakpoint($large) {
+      display: block;
+      width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+  
+  .assitant__name {
+    margin: 0;
+  
+    @include breakpoint($large) {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
+  .sidebar .assitant__name {
+    font-family: $sans-serif;
+    font-size: $type-size-5;
+  }
