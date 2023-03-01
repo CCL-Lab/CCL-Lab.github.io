@@ -6,7 +6,7 @@ id: pokanghsiao
 collection: members
 position: Alumni
 type: alumni
-department: 123
+department: "University of Wisconsin-Madison"
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: pokanghsiao.jpg
 blurb: 123

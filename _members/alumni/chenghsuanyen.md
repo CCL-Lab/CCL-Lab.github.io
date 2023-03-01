@@ -6,7 +6,7 @@ id: chenghsuanyen
 collection: members
 position: Alumni
 type: alumni
-department: 123
+department: "還在等offer"
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: chenghsuanyen.jpeg
 blurb: 123
