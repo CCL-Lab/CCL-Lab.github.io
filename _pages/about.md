@@ -11,7 +11,7 @@ header:
   cta_url:
   image: image
   overlay_color: #RRGGBB
-  overlay_image: banner.jpeg
+  overlay_image: banner_2.jpg
 ---
 
 About Us
