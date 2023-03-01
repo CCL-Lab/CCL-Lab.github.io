@@ -239,27 +239,6 @@
 /*
    Assitant profile and links
    ========================================================================== */
-
-  .assistant__avatar {
-    display: table-cell;
-    vertical-align: middle;
-    width: 36px;
-    height: 36px; /* 新增這行 */
-  
-    @include breakpoint($large) {
-      display: block;
-      width: auto;
-      height: auto;
-    }
-  
-    img {
-      display: block;
-      max-width: 100%;
-      max-height: 100%;
-      object-fit: cover;
-      border-radius: 50%;
-    }
-  }
   
   .assistant__content {
     display: table-cell;
