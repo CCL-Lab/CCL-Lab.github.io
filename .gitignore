@@ -1,6 +1,7 @@
 _site/
 _posts/
 _publications/
+_portfolio
 _talks/
 _teaching/
 
@@ -11,7 +12,11 @@ _pages/talks.html
 _pages/talkmap.html
 _pages/teaching.html
 _pages/publications.md
-_portfolio
 _pages/portfolio_test.html
+
 talkmap/
 _includes/archive-single-talk.html
+
+files\paper1.pdf
+files\paper2.pdf
+files\paper3.pdf
