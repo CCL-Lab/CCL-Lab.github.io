@@ -15,7 +15,7 @@ header:
 
 <section class="page__content">
   <h1>Faculty</h1><Hr>
-    <div>
+    <div style="display: block;">
       {% for post in site.members %}
       {% if post.type == "faculty" %}
         {% include archive-single-faculty.html %}
