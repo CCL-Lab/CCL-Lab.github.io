@@ -1,10 +1,16 @@
 ---
-layout: archive
+# layout: archive
 title: "Research (others)"
 permalink: /research-others/
 author_profile: true
 redirect_from:
   - /resume
+header: 
+  caption: 
+  cta_url:
+  image: image
+  overlay_color: #RRGGBB
+  overlay_image: banner_2.jpg
 ---
 
 {% include base_path %}
