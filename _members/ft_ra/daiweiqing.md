@@ -9,6 +9,6 @@ position: Full-time Research Assistant
 department: 經濟所畢業
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 collection: members
-photo: ft_ra/bio-photo.jpeg
+photo: ft_ra/daiweiqing.jpg
 blurb: 123
 ---
