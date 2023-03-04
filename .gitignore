@@ -1,6 +1,6 @@
 _site/
 _posts/
-_publications/
+# _publications/
 _portfolio
 _talks/
 _teaching/
@@ -11,7 +11,7 @@ _pages/member.md
 _pages/talks.html
 _pages/talkmap.html
 _pages/teaching.html
-_pages/publications.md
+# _pages/publications.md
 _pages/portfolio_test.html
 
 talkmap/
