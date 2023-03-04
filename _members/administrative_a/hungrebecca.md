@@ -2,7 +2,7 @@
 chinese_name: 洪亦莘
 english_name: Rebecca Hung
 title: "洪亦莘 Rebecca Hung"
-id: rebeccahung
+id: hungrebecca
 collection: members
 position: Administrative Assistant
 type: administrative assistant

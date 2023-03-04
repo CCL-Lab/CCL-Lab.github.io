@@ -1,8 +1,8 @@
 ---
-chinese_name: 史秉奇
-english_name: Joseph Shig
-title: 史秉奇 Joseph Shig
-id: josephshig
+chinese_name: 連振安
+english_name: Chen-An Lien
+title: 連振安 Chen-An Lien
+id: lienchenan
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant

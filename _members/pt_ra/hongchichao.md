@@ -1,13 +1,13 @@
 ---
-chinese_name: 蔡承翰
-english_name: Cheng-Han, Tsai
-title: 蔡承翰 Cheng-Han, Tsai
-id: chenghantsai
+chinese_name: 洪啟超
+english_name: Chi-Chao Hung
+title: 洪啟超 Chi-Chao Hung
+id: hungchichao
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
-department: 財務金融學系學士班五年級
+department: 經濟學系學士班三年級
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pt_ra/chenghantsai.jpg
+photo: pt_ra/bio-photo.jpg
 blurb: 123
 ---

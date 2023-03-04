@@ -1,13 +1,13 @@
 ---
-chinese_name: 林鼎鈞
-english_name: Ting-Chun, Lin
-title: 林鼎鈞 Ting-Chun, Lin
-id: tinchunlin
+chinese_name: 羅崇綱
+english_name: Chung-Kang Lo
+title: 羅崇綱 Chung-Kang Lo
+id: lochungkang
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
-department: 經濟學系學士班三年級
+department: 國立成功大學經濟學研究所
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pt_ra/bio-photo.jpg
+photo: pt_ra/lochungkang.jpeg
 blurb: 123
 ---
