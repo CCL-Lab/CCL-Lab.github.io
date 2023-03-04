@@ -25,7 +25,7 @@ main:
     url: /research-firm/
 
   - title: "Research (Admin Data/Others)"
-    url: /research-others/
+    url: /research-adminothers/
 
   - title: "Guide"
     url: /markdown/
