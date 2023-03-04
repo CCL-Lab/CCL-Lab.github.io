@@ -15,6 +15,12 @@ header:
 
 {% include base_path %}
 
+{% for post in site.research reversed %}
+  {% if post.type == "firm" %}
+    {% include archive-single-research.html %}
+  {% endif %}
+{% endfor %}
+
 <!-- 
 Education
 ======

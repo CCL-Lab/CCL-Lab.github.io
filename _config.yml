@@ -181,6 +181,9 @@ collections:
   alumni:
     output: true
     permalink: /:collection/:path/
+  research-firm:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -207,6 +210,12 @@ defaults:
   - scope:
       path: ""
       type: alumni
+    values:
+      layout: single
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
   # _posts
