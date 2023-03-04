@@ -1,7 +1,7 @@
 ---
 chinese_name: 黃泓愷
-english_name: Hung-Kai, Huang
-title: 黃泓愷 Hung-Kai, Huang
+english_name: Hung-Kai Huang
+title: 黃泓愷 Hung-Kai Huang
 id: haunghungkai
 collection: members
 position: Part-time Research Assistant

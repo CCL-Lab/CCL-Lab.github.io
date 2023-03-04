@@ -1,7 +1,7 @@
 ---
 chinese_name: 陳菀錚
-english_name: Wan-Zheng, Chen
-title: 陳菀錚 Wan-Zheng, Chen
+english_name: Wan-Zheng Chen
+title: 陳菀錚 Wan-Zheng Chen
 id: chenwanzheng
 collection: members
 position: Part-time Research Assistant

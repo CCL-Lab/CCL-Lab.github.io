@@ -1,7 +1,7 @@
 ---
 chinese_name: 黃意婷
-english_name: haung Cecilia
-title: 黃意婷 haung Cecilia
+english_name: Cecilia Haung 
+title: 黃意婷 Cecilia Haung 
 id: huangcecilia
 collection: members
 position: Part-time Research Assistant
