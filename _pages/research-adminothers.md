@@ -1,6 +1,5 @@
 ---
-# layout: archive
-title: "Research (others)"
+title: "Research (Admin Data/Others)"
 permalink: /research-adminothers/
 author_profile: true
 redirect_from:
