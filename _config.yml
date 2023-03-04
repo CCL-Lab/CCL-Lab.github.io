@@ -181,7 +181,7 @@ collections:
   alumni:
     output: true
     permalink: /:collection/:path/
-  research-firm:
+  research:
     output: true
     permalink: /:collection/:path/
   teaching:
