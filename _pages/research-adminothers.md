@@ -1,7 +1,7 @@
 ---
 # layout: archive
 title: "Research (others)"
-permalink: /research-others/
+permalink: /research-adminothers/
 author_profile: true
 redirect_from:
   - /resume
@@ -14,6 +14,18 @@ header:
 ---
 
 {% include base_path %}
+
+{% for post in site.research reversed %}
+  {% if post.type == "admin" %}
+    {% include archive-single-research.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.research reversed %}
+  {% if post.type == "others" %}
+    {% include archive-single-research.html %}
+  {% endif %}
+{% endfor %}
 <!-- 
 Lin, Ming-Jen 林明仁
 =====

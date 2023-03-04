@@ -1,7 +1,7 @@
 ---
 title: "Two Step Empirical Bayes"
 collection: research
-permalink: /research/2015-10-01-two_step_empirical_bayes
+permalink: /research-adminothers/2015-10-01-two_step_empirical_bayes
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 type: 'others'
 date: 2015-10-01

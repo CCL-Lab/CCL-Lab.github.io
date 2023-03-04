@@ -1,9 +1,9 @@
 ---
 title: "Personalized learning system"
 collection: research
-permalink: /research/2010-10-01-personalized_learning_system
+permalink: /research-firm/2010-10-01-personalized_learning_system
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-type: 'admin'
+type: 'firm'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
