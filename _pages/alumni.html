@@ -20,8 +20,8 @@ header:
       {% if post.cohort != written_year %}
         <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
         {% capture written_year %}{{ post.cohort }}{% endcapture %}
-        {% include archive-single-assistant.html %}
       {% endif %}
+      {% include archive-single-assistant.html %}
     {% endfor %}
   </div>
   

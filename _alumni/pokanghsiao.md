@@ -7,9 +7,9 @@ collection: alumni
 position: Alumni
 type: alumni
 department: "University of Wisconsin-Madison"
-venue: "University of Wisconsin-Madison"
+# venue: "University of Wisconsin-Madison"
 location: "Madison, WI, 美國"
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
+# image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: alumni/hsiaopokang.jpg
 cohort: 2023
 
