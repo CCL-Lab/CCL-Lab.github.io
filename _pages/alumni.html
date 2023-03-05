@@ -20,33 +20,18 @@ header:
         {% if post.cohort != written_year %}
           {% if written_year != 'None' %}
               </div>
-            </div><!-- close div for previous year's posts -->
+            </div>
           {% endif %}
-          <div style="flex-basis: 100%;">
+          <div>
             <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
             <div style="display: flex; flex-wrap: wrap;">
         {% capture written_year %}{{ post.cohort }}{% endcapture %}
         {% endif %}
-        <!-- <div style="flex: 0 0 33.33%; padding: 10px; box-sizing: border-box;"> -->
         {% include archive-single-assistant.html %}
-        <!-- </div> -->
       {% endfor %}
         </div>
-      </div><!-- close div for last year's posts -->
-    </div><!-- close all-posts div -->
-    <!-- {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.alumni %}
-      {% if post.cohort != written_year %}
-        <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
-        <div style="display: flex; flex-wrap: wrap;">
-          {% capture written_year %}{{ post.cohort }}{% endcapture %}
-      {% endif %}
-            {% include archive-single-assistant.html %}
-      {% if forloop.last == true %} 
-      or post.cohort != forloop.nextitem.cohort -->
-        <!-- </div>
-      {% endif %}
-    {% endfor %} -->
+      </div> <!-- close div for last year's posts -->
+    </div> <!-- close all-posts div -->
   
   <h2>Alumni Map</h2>
   <!-- This map is generated from a Jupyter Notebook file in /_members/alumni/alumnimap.ipynb. -->
