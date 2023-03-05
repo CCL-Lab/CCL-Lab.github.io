@@ -19,10 +19,12 @@ header:
       {% for post in site.alumni %}
         {% if post.cohort != written_year %}
           {% if written_year != 'None' %}
+              </div>
             </div><!-- close div for previous year's posts -->
           {% endif %}
           <div style="flex-basis: 100%;">
             <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
+            <div style="display: flex; flex-wrap: wrap;"></div>
         {% capture written_year %}{{ post.cohort }}{% endcapture %}
         {% endif %}
         <!-- <div style="flex: 0 0 33.33%; padding: 10px; box-sizing: border-box;"> -->
