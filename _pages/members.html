@@ -17,10 +17,10 @@ header:
   <h1>Faculty</h1><Hr>
     <div style="display: inline-block;">
       {% for post in site.members %}
-      {% if post.type == "faculty" %}
-        {% include archive-single-faculty.html %}
-      {% endif %}
-    {% endfor %}
+        {% if post.type == "faculty" %}
+          {% include archive-single-faculty.html %}
+        {% endif %}
+      {% endfor %}
     </div>
   <Br>
 </section>
