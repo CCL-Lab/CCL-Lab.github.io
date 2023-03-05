@@ -11,6 +11,6 @@ venue: "University of Wisconsin-Madison"
 location: "Madison, WI, 美國"
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: alumni/hsiaopokang.jpg
-cohort: Class of 2023
+cohort: 2023
 
 ---
