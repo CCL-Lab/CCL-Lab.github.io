@@ -14,18 +14,23 @@ header:
 
 <div>
   <h1>Alumni</h1><Hr>
-    {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.alumni %}
-      {% if post.cohort != written_year %}
-        <div class="cohort-wrapper" style="display: flex; flex-wrap: wrap;">
-          <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
-          {% capture written_year %}{{ post.cohort }}{% endcapture %}
-      {% endif %}
-      {% include archive-single-assistant.html %}
-      {% if forloop.last or post.cohort != forloop.nextitem.cohort %}
+    <div style="display: flex; flex-wrap: wrap;">
+      {% capture written_year %}'None'{% endcapture %}
+      {% for post in site.alumni %}
+        {% if post.cohort != written_year %}
+          {% if written_year != 'None' %}
+            </div><!-- close div for previous year's posts -->
+          {% endif %}
+          <div>
+            <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
+        {% capture written_year %}{{ post.cohort }}{% endcapture %}
+        {% endif %}
+        <div>
+          {% include archive-single-assistant.html %}
         </div>
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
+      </div><!-- close div for last year's posts -->
+    </div><!-- close all-posts div -->
     <!-- {% capture written_year %}'None'{% endcapture %}
     {% for post in site.alumni %}
       {% if post.cohort != written_year %}
