@@ -4,10 +4,7 @@ main:
   #   url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /talks/       
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -27,5 +24,8 @@ main:
   - title: "Research (Admin Data/Others)"
     url: /research-adminothers/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Teaching"
+    url: /teaching/ 
+
+  # - title: "Guide"
+  #   url: /markdown/

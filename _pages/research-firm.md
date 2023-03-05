@@ -15,17 +15,23 @@ header:
 
 {% include base_path %}
 
+## Firm
+
 {% for post in site.research reversed %}
   {% if post.type == "admin" %}
     {% include archive-single-research.html %}
   {% endif %}
 {% endfor %}
 
+## Admin Data
+
 {% for post in site.research reversed %}
   {% if post.type == "firm" %}
     {% include archive-single-research.html %}
   {% endif %}
 {% endfor %}
+
+## Others
 
 {% for post in site.research reversed %}
   {% if post.type == "others" %}
