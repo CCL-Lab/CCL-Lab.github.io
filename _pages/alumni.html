@@ -21,7 +21,7 @@ header:
       {% if post.type == "alumni" %}
         <!-- {% capture year %}{{ post.cohort | date: '%Y' }}{% endcapture %} -->
         {% if post.cohort != written_year %}
-          <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+          <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.type }}</h2>
           {% capture written_year %}{{ year }}{% endcapture %}
         {% endif %}
         {% include archive-single-assistant.html %}
