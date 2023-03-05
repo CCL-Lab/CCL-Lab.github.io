@@ -1,5 +1,4 @@
 ---
-<!-- layout: archive -->
 title: "Alumni"
 permalink: /alumni/
 author_profile: true
@@ -15,21 +14,16 @@ header:
 
 <div>
   <h1>Alumni</h1><Hr>
-  
+  <div style="display: flex; flex-wrap: wrap;"></div>
     {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.members %}
-      {% if post.type == "alumni" %}
-        <!-- {% capture year %}{{ post.cohort | date: '%Y' }}{% endcapture %} -->
-        {% if post.cohort != written_year %}
-          <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
-          {% capture written_year %}{{ year }}{% endcapture %}
-        {% endif %}
-        <div style="display: flex; flex-wrap: wrap;"></div>
+    {% for post in site.alumni %}
+      {% if post.cohort != written_year %}
+        <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
+        {% capture written_year %}{{ post.cohort }}{% endcapture %}
         {% include archive-single-assistant.html %}
-        </div>
       {% endif %}
     {% endfor %}
-  
+  </div>
   
   <h2>Alumni Map</h2>
   <!-- This map is generated from a Jupyter Notebook file in /_members/alumni/alumnimap.ipynb. -->
