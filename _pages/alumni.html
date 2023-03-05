@@ -21,7 +21,7 @@ header:
         <div style="display: flex; flex-wrap: wrap;">
           {% capture written_year %}{{ post.cohort }}{% endcapture %}
       {% endif %}
-        {% include archive-single-assistant.html %}
+            {% include archive-single-assistant.html %}
       {% if forloop.last or post.cohort != forloop.nextitem.cohort %}
         </div>
       {% endif %}
