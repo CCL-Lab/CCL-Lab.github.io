@@ -20,7 +20,7 @@ header:
         <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
         <div style="display: flex; flex-wrap: wrap;">
           {% capture written_year %}{{ post.cohort }}{% endcapture %}
-        {% endif %}
+      {% endif %}
         {% include archive-single-assistant.html %}
       {% if forloop.last or post.cohort != forloop.nextitem.cohort %}
         </div>
