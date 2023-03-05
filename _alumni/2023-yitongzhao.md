@@ -11,6 +11,6 @@ department: "Penn State University"
 location: "State College, PA 16801, 美國"
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: alumni/zhaoyitong.jpg
-cohort: 2023
+cohort: "2023"
 
 ---
