@@ -25,9 +25,9 @@ header:
             <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ post.cohort }}</h2>
         {% capture written_year %}{{ post.cohort }}{% endcapture %}
         {% endif %}
-        <div style="flex: 0 0 33.33%; padding: 10px; box-sizing: border-box;">
-          {% include archive-single-assistant.html %}
-        </div>
+        <!-- <div style="flex: 0 0 33.33%; padding: 10px; box-sizing: border-box;"> -->
+        {% include archive-single-assistant.html %}
+        <!-- </div> -->
       {% endfor %}
       </div><!-- close div for last year's posts -->
     </div><!-- close all-posts div -->
