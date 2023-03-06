@@ -1,13 +1,13 @@
 ---
-chinese_name: 戴維慶
-english_name: Wei-Qing Dai
-title: 戴維慶 Wei-Qing Dai
-id: daiweiqing
+chinese_name: 羅偉倫
+english_name: Wei-Lun Lo
+title: 羅偉倫 Wei-Lun Lo
+id: loweilun
 collection: members
 type: full-time research assistant
 position: Full-time Research Assistant 
-department: 經濟所畢業
+department: Some Sus PhD...
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: ft_ra/daiweiqing.jpg
-# blurb: 123
+photo: ft_ra/loweilun.jpg
+blurb: 123
 ---
