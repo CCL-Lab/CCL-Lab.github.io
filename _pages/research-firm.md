@@ -2,7 +2,6 @@
 # layout: archive
 title: "Research (firm)"
 permalink: /research-firm/
-author_profile: true
 redirect_from:
   - /resume
 header: 

@@ -2,7 +2,6 @@
 permalink: /
 title: "CCL Lab"
 excerpt: "Create. Collaborate. Learn."
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
