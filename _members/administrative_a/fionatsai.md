@@ -1,8 +1,8 @@
 ---
-chinese_name: 洪亦莘
-english_name: Rebecca Hung
-title: "洪亦莘 Rebecca Hung"
-id: hungrebecca
+chinese_name: 蔡欣怡
+english_name: Fiona Tsai
+title: "蔡欣怡 Fiona Tsai"
+id: fionatsai
 collection: members
 position: Administrative Assistant
 type: administrative assistant

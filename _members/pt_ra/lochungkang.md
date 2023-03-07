@@ -7,7 +7,7 @@ collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
 department: 國立成功大學經濟學研究所
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
+# image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 photo: pt_ra/lochungkang.jpeg
-blurb: 123
+# blurb: 123
 ---
