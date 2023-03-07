@@ -1,8 +1,8 @@
 ---
 chinese_name: 蔡欣怡
-english_name: Fiona Tsai
-title: "蔡欣怡 Fiona Tsai"
-id: fionatsai
+english_name: Fionna Tsai
+title: "蔡欣怡 Fionna Tsai"
+id: tsaifionna
 collection: members
 position: Administrative Assistant
 type: administrative assistant
