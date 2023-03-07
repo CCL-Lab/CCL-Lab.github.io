@@ -16,5 +16,6 @@ _pages/year-archive.html
 talkmap/
 _includes/archive-single-talk.html
 _includes/author-profile.html
+_includes/sidebar.html
 
 files/*
