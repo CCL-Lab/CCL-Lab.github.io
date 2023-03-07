@@ -1,6 +1,6 @@
 ---
 title: "Research (Admin Data/Others)"
-permalink: /research-adminothers/
+permalink: /research/
 redirect_from:
   - /resume
 header: 

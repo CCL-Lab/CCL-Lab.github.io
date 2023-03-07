@@ -1,7 +1,7 @@
 ---
 # layout: archive
 title: "Research (firm)"
-permalink: /research-firm/
+permalink: /research/
 redirect_from:
   - /resume
 header: 

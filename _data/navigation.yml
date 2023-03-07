@@ -18,11 +18,8 @@ main:
   - title: "Alumni"
     url: /alumni/
 
-  - title: "Research (Firm)"
-    url: /research-firm/
-
-  - title: "Research (Admin Data/Others)"
-    url: /research-adminothers/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/ 
