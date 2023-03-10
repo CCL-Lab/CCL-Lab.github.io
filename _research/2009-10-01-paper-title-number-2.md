@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 collection: research
 permalink: /research/others/2009-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work. This paper is about the number 2. The number 3 is left for future work. This paper is about the number 2. The number 3 is left for future work. This paper is about the number 2. The number 3 is left for future work. This paper is about the number 2. The number 3 is left for future work. '
 type: 'others'
 date: 2009-10-01
 venue: 'Journal 1'
