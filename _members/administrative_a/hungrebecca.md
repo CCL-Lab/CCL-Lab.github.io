@@ -8,6 +8,6 @@ position: Administrative Assistant
 type: administrative assistant
 department: 經濟系行政助理
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: administrative_a/rebeccahung.jpg
+photo: administrative_a/hungrebecca.jpg
 # blurb: 123
 ---

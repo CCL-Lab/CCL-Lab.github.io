@@ -10,7 +10,7 @@ department: "Becker Friedman Institute, University of Chicago"
 # venue: "Penn State University"
 location: "5757 S University Ave, Chicago, IL 60637, 美國"
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: alumni/bio-photo.jpg
+photo: alumni/tsengkuanju.jpg
 cohort: "2023"
 
 ---
