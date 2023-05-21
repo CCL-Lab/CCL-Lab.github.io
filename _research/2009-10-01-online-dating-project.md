@@ -1,9 +1,9 @@
 ---
 title: "Online Dating Project"
 collection: research
-permalink: /research/firm/2009-10-01-online-dating-project
+permalink: /research/admin/2009-10-01-online-dating-project
 excerpt: 'This paper is about the number 1. The number 2 is left for future work. This paper is about the number 1. The number 2 is left for future work. This paper is about the number 1. The number 2 is left for future work. This paper is about the number 1. The number 2 is left for future work. This paper is about the number 1. The number 2 is left for future work. This paper is about the number 1. The number 2 is left for future work. '
-type: 'firm'
+type: 'admin'
 date: 2009-10-01
 venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
