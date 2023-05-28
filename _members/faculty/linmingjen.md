@@ -12,9 +12,9 @@ collection: members
 type: faculty
 # photo: "<br/><img src='/images/faculty/mingjenlin.jpeg'>"
 photo: linmingjen.jpeg
-bio: 'I'm a Chicago-Trained, Freaknomic style classical economists who believes in incentives and market force. My research use novel identification strategy and interesting data to pin down casual mechanism in human behavior, and to understand the distributional effect of policy intervention and algorithms.
+bio: "I'm a Chicago-Trained, Freaknomic style classical economists who believes in incentives and market force. My research use novel identification strategy and interesting data to pin down casual mechanism in human behavior, and to understand the distributional effect of policy intervention and algorithms.
 
-I also served as the department chair of Economics at NTU from 2016-2019, and Director-General in the department of Humanity and Science, National Council of Science and Technology from 2020-2022. '
+I also served as the department chair of Economics at NTU from 2016-2019, and Director-General in the department of Humanity and Science, National Council of Science and Technology from 2020-2022. "
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
