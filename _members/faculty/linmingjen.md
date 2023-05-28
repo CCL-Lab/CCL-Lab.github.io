@@ -12,8 +12,8 @@ collection: members
 type: faculty
 # photo: "<br/><img src='/images/faculty/mingjenlin.jpeg'>"
 photo: linmingjen.jpeg
-bio: "I'm a Chicago-Trained, Freaknomic style classical economists who believes in incentives and market force. <br/>  
-My research use novel identification strategy and interesting data to pin down casual mechanism in human behavior, and to understand the distributional effect of policy intervention and algorithms. <br/>  
+bio: "I'm a Chicago-Trained, Freaknomic style classical economists who believes in incentives and market force. <br/><br/>   
+My research use novel identification strategy and interesting data to pin down casual mechanism in human behavior, and to understand the distributional effect of policy intervention and algorithms. <br/> <br/>  
 I also served as the department chair of Economics at NTU from 2016-2019, and Director-General in the department of Humanity and Science, National Council of Science and Technology from 2020-2022. "
 ---
 
