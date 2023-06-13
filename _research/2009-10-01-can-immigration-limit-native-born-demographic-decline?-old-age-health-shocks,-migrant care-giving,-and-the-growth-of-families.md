@@ -6,7 +6,7 @@ excerpt: 'Taken together, falling fertility rates and rising lifespans are causi
 type: 'firm'
 date: 2023-01-01
 venue: 'Journal'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ' '
 citation: 'Researchers : 曾冠儒、陳冠銘、Maxwell Kellogg'
 ---
 Taken together, falling fertility rates and rising lifespans are causing many of the worlds wealthiest countries to face steep increases in age-related long-term care (LTC) needs that must be born by a comparatively shrinking native labor force. This paper exploits rich administrative records to provide novel evidence on the scope and distribution of those costs. Beyond their well-studied disemployment effects, we find that health shocks to the elderly cause large families to grow larger: adult children are more likely to get married, and they have more children of their own. These responses are persistent over time, and they are consistent with the idea that LTC needs induce family members to substitute from formal employment into a mix of informal caregiving and home production.  Members of smaller families, on the other hand, experience sharp increases in mortality risk, which is consistent with caregiving-related ``deaths of despair."  Leveraging quasi-experimental variation in access to international caregiver markets for individual families, we find that formal caregiver hiring amplifies positive fertility responses, whereas mortality responses vanish. These results suggest that immigration policy can causally improve native-born well-being and sustain longer-term native-born demographics.
