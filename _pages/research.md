@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: "Research (firm)"
+title: "Research"
 permalink: /research/
 redirect_from:
   - /resume
