@@ -6,8 +6,8 @@ id: huangcecilia
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
-department: 經濟學系碩士班三年級
+department: 經濟學系碩士班畢業
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pt_ra/bio-photo.jpg
+photo: pt_ra/huangyiting.jpg
 # blurb: 123
 ---
