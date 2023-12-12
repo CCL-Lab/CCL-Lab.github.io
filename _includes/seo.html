@@ -89,7 +89,7 @@
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% else %}
-  <meta property="og:image" content="{{ site.url | append: site.baseurl | append: site.og_image }}">
+  <meta property="og:image" content="https://ccl-lab.github.io/assets/images/faculty/SSbuilding.jpeg">
 {% endif %}
 
 {% if page.date %}
