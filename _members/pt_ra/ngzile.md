@@ -1,7 +1,7 @@
 ---
-chinese_name: 黃志磊
+chinese_name: 黃至磊
 english_name: Ng Zi Le
-title: 黃志磊 Ng Zi Le
+title: 黃至磊 Ng Zi Le
 id: ngzile
 collection: members
 position: Part-time Research Assistant
