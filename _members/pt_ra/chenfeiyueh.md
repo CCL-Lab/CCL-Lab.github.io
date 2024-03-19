@@ -1,13 +1,13 @@
 ---
-chinese_name: 陳亮丞
-english_name: Liang-Cheng Chen
-title: 陳亮丞 Liang-Cheng Chen
-id: chenliangchen
+chinese_name: 陳飛岳
+english_name: Fei-Yueh Chen
+title: 陳飛岳 Fei-Yueh Chen
+id: chenfeiyueh
 collection: members
 position: Part-time Research Assistant
 type: part-time research assistant
-department: 經濟學系碩士班五年級
+department: 中央研究院資訊所
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pt_ra/bio-photo.jpg
+photo: pt_ra/chenfeiyheh.jpg
 # blurb: 123
 ---
