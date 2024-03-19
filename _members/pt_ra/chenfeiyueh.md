@@ -8,6 +8,6 @@ position: Part-time Research Assistant
 type: part-time research assistant
 department: 中央研究院資訊所
 # image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-photo: pt_ra/chenfeiyheh.jpg
+photo: pt_ra/chenfeiyueh.jpg
 # blurb: 123
 ---
